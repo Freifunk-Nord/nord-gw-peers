@@ -1,0 +1,3 @@
+key "3dd48007765a0392244df2f3b627c487bae1269d242278140ab6caac1e5f5f34";
+remote ipv4 "vpn0.ffnord.net" port 10050;
+remote ipv6 "vpn0.ffnord.net" port 10050;
